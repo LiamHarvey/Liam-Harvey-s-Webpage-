@@ -187,3 +187,21 @@ To achieve this goal, it will take numerous years in order to be considered for 
 </body>
 </html>
 
+<h2> Reference List </h2>
+
+<p> Australian Academy of Science 2019, ‘Australian Road Statistics’, Viewed 8 December 2019, <https://www.science.org.au/curious/australian-road-statistics>. <br></br>
+ 
+Google Maps, 2019, Google Maps, Viewed 8 December 2019, 
+<https://www.google.com/maps?q=google+maps+sydney+cbd&um=1&ie=UTF-8&sa=X&ved=2ahUKEwivzYvFp7LmAhWBheYKHX6gBvgQ_AUoAXoECA8QAw>.  <br></br>
+ 
+Google Maps, 2019, Google Maps, Viewed 8 December 2019,
+<https://www.google.com/maps/place/Melbourne+VIC+3004/@-37.8274812,144.9352466,13z/data=!3m1!4b1!4m5!3m4!1s0x6ad642af0f11fd81:0x5045675218ce7e0!8m2!3d-37.813611!4d144.963056>.  <br></br>
+ 
+ 
+Google Maps, 2019, Google Maps, Viewed 8 December 2019,
+<https://www.google.com/maps/place/Brisbane+City+QLD+4000/@-27.4704255,153.0055405,14z/data=!3m1!4b1!4m5!3m4!1s0x6b915a045cf620bb:0x502a35af3de84c0!8m2!3d-27.4697707!4d153.0251235>. <br></br>
+ 
+Iwaniuk, P 2018, ‘What kind of PC do you need for game development?’, PCGamer, Viewed 8 December 2019,
+<https://www.pcgamer.com/game-development-pc/>.
+
+
